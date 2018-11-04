@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -29,4 +29,16 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.btn-color-green {
+  background-color: #1e7e34;
+  color: #fff;
+  border-color: #1c7430;
+}
+
+.btn-color-green:hover{
+  color: #fff;
+  background-color: #218838;
+  border-color: #1c7c34;
 }
