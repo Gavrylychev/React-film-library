@@ -121,7 +121,6 @@ class App extends Component {
       }else{
         state.movieListWillWatch.splice(index, 1);
       }
-      console.log(state.movieListWillWatch)
       return {
       movieListWillWatch: state.movieListWillWatch
     }});
